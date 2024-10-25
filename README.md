@@ -25,3 +25,30 @@ Kaggle [Download here](https://www.kaggle.com/datasets/blastchar/telco-customer-
  - Used boxplots to identify outliers in features like MonthlyCharges and TotalCharges.
  - Generated a heatmap to visualize correlations between customer attributes and churn.
 
+### Tools Used
+Python
+
+### Libraries
+ - Numpy
+ - Pandas
+ - Seaborn
+ - Matplotlib
+
+### Key insights
+#### 1. Overall Churn Rate: The analysis showed an overall churn rate of approximately 26.54%
+#### 2. Customer Demographics:
+ - Senior Citizens: Senior customers tend to have a higher churn rate than younger customers.
+#### 3. Contract Type:
+ - Customers on month-to-month contracts are more likely to churn compared to those on longer-term contracts (e.g., 2-year contracts).
+#### 4. Service Features:
+ - Customers who do not have online security are more prone to churn, though those with online security have a higher churn rate compared to customers without internet services.
+ - Among internet service types, customers with fiber optic services show the highest churn rate, while those without internet services have the lowest.
+#### 5. Payment Method:
+ - Customers who pay via electronic check have a notably higher churn rate, while those using credit cards have the lowest.
+#### 6. Tenure:
+ - Newer customers, particularly those with tenures under two years, exhibit a much higher churn rate than long-term customers (5+ years).
+#### 7. Monthly Charges:
+ - Correlation analysis indicates that higher monthly charges are linked to a greater likelihood of customer churn.
+
+
+
