@@ -69,4 +69,7 @@ Analysis [View the analysis on Jupyter Notebook]()
  - Geek for geeks: more about boxplot and it's uses [link](https://www.geeksforgeeks.org/box-plot-visualization-with-pandas-and-seaborn/)
  - Khan Academy: more opinions about the use of boxplot [link](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/box-plot-review#:~:text=A%20box%20and%20whisker%20plot%E2%80%94also%20called%20a%20box%20plot,the%20box%20at%20the%20median.)
 
+### Acknowledgement
+I want to express my sincere gratitude to my data community peers for their invaluable input. Their expertise and collaboration were essential to the success of this project.
+
 
