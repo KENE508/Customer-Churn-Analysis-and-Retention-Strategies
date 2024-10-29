@@ -65,4 +65,8 @@ Analysis [View the analysis on Jupyter Notebook]()
 #### 5. Promote DSL Services For Internet Subscribers:
  - DSL users show lower churn rates than fiber optic users, emphasize the reliability and affordability of DSL to new customers or to those looking to downgrade, potentially reducing churn for cost-sensitive customers.
 
+### Referenes
+ - Geek for geeks: more about boxplot and it's uses [link](https://www.geeksforgeeks.org/box-plot-visualization-with-pandas-and-seaborn/)
+ - Khan Academy: more opinions about the use of boxplot [link](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/box-plot-review#:~:text=A%20box%20and%20whisker%20plot%E2%80%94also%20called%20a%20box%20plot,the%20box%20at%20the%20median.)
+
 
