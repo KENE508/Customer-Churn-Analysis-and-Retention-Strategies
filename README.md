@@ -51,7 +51,7 @@ Python
  - Correlation analysis indicates that higher monthly charges are linked to a greater likelihood of customer churn.
 
 ### Project Link
-Analysis [View the analysis on Jupyter Notebook](https://github.com/KENE508/Customer-Churn-Analysis-and-Retention-Strategies/blob/main/)
+Analysis [View the analysis on Jupyter Notebook](https://github.com/KENE508/Customer-Churn-Analysis-and-Retention-Strategies/blob/main/Customer_Churn_Analysis_and_Retention_Strategies.ipynb)
 
 ### Recommendations
 #### 1. Promote Long-Term Contracts:
