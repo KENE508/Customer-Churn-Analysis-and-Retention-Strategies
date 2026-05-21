@@ -33,6 +33,8 @@ Python
  - Pandas
  - Seaborn
  - Matplotlib
+ - Scikit-learn
+ - Seaborn
 
 ### Key insights
 #### 1. Overall Churn Rate: The analysis showed an overall churn rate of approximately 26.54%
